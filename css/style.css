@@ -1,0 +1,18 @@
+#draggable {
+ width: 150px;
+ height: 150px;
+ padding: 0.5em;
+ background-color: red; 
+
+}
+
+#draggable1 { width: 80px; height: 80px; padding: 0.5em; float: left; margin: 10px 10px 10px 0; background-color: green; cursor: pointer; }
+
+
+ #droppable { width: 150px; height: 150px; padding: 0.5em; float: left; margin: 10px; background-color: yellow; }
+
+ #resizable { width: 150px; height: 150px; padding: 0.5em;background-color:lightgrey; }
+ #resizable h3 { text-align: center; margin: 0;background-color:#ddd;}
+  
+
+  
